@@ -27,8 +27,3 @@ The script creates a simple GUI application that allows users to input a distanc
 
 3. **Output:**
    - The converted distance in kilometers is shown next to the "Km" label.
-
-### Example
-
-**User Input:**
-
